@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\bin\Debug\net6.0\TodoAppProgram.exe
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\bin\Debug\net6.0\TodoAppProgram.deps.json
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\bin\Debug\net6.0\TodoAppProgram.runtimeconfig.json
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\bin\Debug\net6.0\TodoAppProgram.dll
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\bin\Debug\net6.0\TodoAppProgram.pdb
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\TodoAppProgram.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\TodoAppProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\TodoAppProgram.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\TodoAppProgram.AssemblyInfo.cs
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\TodoAppProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\TodoAppProgram.dll
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\refint\TodoAppProgram.dll
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\TodoAppProgram.pdb
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\TodoAppProgram.genruntimeconfig.cache
+C:\Users\User\source\repos\TodoApp\TodoAppProgram\obj\Debug\net6.0\ref\TodoAppProgram.dll
